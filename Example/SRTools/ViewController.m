@@ -7,7 +7,7 @@
 //
 
 #import "ViewController.h"
-
+#import "SRNormalTools.h"
 @interface ViewController ()
 
 @end

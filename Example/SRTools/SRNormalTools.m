@@ -12,7 +12,7 @@
 #import "SRNormalTools.h"
 #import<CommonCrypto/CommonDigest.h>
 
-typedef enum : int {
+typedef enum {
     RSDateTypeYMD,  // 2016-10-11
     RSDateTypeYMDH, // 2016-10-11 10
     RSDateTypeYMDHE, // 2016-10-11 10:20
