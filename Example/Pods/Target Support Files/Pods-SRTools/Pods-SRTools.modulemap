@@ -1,0 +1,6 @@
+framework module Pods_SRTools {
+  umbrella header "Pods-SRTools-umbrella.h"
+
+  export *
+  module * { export * }
+}
